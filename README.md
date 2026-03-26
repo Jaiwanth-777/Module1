@@ -28,7 +28,7 @@ else:
 Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully.
 
 
-# Ex 1:Datatypes-Boolean Expression Evaluation in Python
+# NO:2 Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
@@ -60,4 +60,28 @@ print(f"d: {d}")
 
 ## Result
 Thus, to write a python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is compiled and the output is verified successfully.
+
+
+# NO:3 Datatypes-Character Literal in Python
+
+## 🎯 Aim
+To write a Python program that prints the characters `'T'` and `'a'` using character literals.
+
+## 🧠 Algorithm
+1. Print the character `'T'`.
+2. Print the character `'a'`.
+
+## 🧾 Program
+```
+char1='T'
+char2='a'
+print(char1)
+print(char2)
+```
+## Output
+
+<img width="1189" height="314" alt="Screenshot 2026-03-26 091648" src="https://github.com/user-attachments/assets/3d108405-e8f4-455f-a46b-fed699bd0e65" />
+
+## Result
+Therefore to write a Python program that prints the characters 'T' and 'a' using character literals is compiled and the output is verified successfully.
 
