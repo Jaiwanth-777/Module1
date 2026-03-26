@@ -14,13 +14,15 @@ To write a Python program to check whether the given number is **even** or **odd
 ## 🧾 Program
 ```
 a=int(input())
-if(a%2 == 0):
+if(a%2==0):
     print("EVEN")
 else:
     print("ODD")
 ```
+
 ## Output
-<img width="911" height="1019" alt="Screenshot 2026-03-26 085328" src="https://github.com/user-attachments/assets/588c0899-08b5-4b58-972d-42d33dffaa81" />
+
+<img width="584" height="466" alt="Screenshot 2026-03-26 091209" src="https://github.com/user-attachments/assets/1f8065fc-ecee-4800-af48-64e832ee766e" />
 
 ## Result
-the code is executed successfully.
+Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully.
