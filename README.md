@@ -114,7 +114,7 @@ print(x.imag)
 ## Result
 Thus the prgram has been successfully executed.
 
-#NO:5 Datatypes-Read and Print a String in Python
+##NO:5 Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
